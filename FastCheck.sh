@@ -5,7 +5,7 @@ usethirdparty=1
 
 
 function Help(){
-	printf "FastCheck.sh\n\n\tsudo FastCheck.sh [<options(optional)>]\n\t\t--h --H --help --Help --HELP: help, talks about the command optional options(Where you are now)\n\t\t--clear: clears console same as running 'clear' in bash\n\t\t--skip-3rd-party: skips rkhunter and chkrootkit that are 3rd party software"
+	printf "FastCheck.sh\n\n\tsudo FastCheck.sh [<options(optional)>]\n\t\t--h --H --help --Help --HELP: help, talks about the command optional options(Where you are now)\n\t\t--clear: clears console same as running 'clear' in bash\n\t\t--skip-3rd-party: skips rkhunter and chkrootkit that are 3rd party software\n"
 	exit
 }
 
