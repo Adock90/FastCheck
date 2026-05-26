@@ -9,10 +9,10 @@ Compatible With: Linux -> Debian/Ubuntu, Red-Hat/Fedora and Arch based distros
 
 <h3>2. Verify with: Output in sha256sums.txt</h3>
 
-   <code>sha256sum FastCheck.sh</code>
+   <h4><code>sha256sum FastCheck.sh</code></h4>
 
-# 4. Call with <code>sudo FastCheck.sh</code>
+<h3>4. Call with <code>sudo FastCheck.sh</code></h3>
 
-# 5. Enjoy
+<h3>5. Enjoy</h3>
 
 # Note this is not an perfect solution
